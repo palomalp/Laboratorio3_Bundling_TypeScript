@@ -1,0 +1,4 @@
+//le digo que utilice los presets de babel.
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react", "@babel/preset-typescript"] 
+}
